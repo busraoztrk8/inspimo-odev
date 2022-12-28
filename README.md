@@ -1,0 +1,2 @@
+# inspimo-odev
+ isnpimo ödev
